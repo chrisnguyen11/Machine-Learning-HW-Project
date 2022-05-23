@@ -1,5 +1,5 @@
 ## Files 
-*heart.csv* - the dataset used for this assignment 
+*heart.csv* - the dataset used for this assignment - same as the dataset from HW3
 
 *hw_v2.py* - the python script used for the assignment, outputs the results written in the docx file
 
