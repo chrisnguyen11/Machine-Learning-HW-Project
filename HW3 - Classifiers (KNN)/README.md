@@ -1,6 +1,9 @@
-### *heart.csv* - conatins the data useed for the homework
+## Files 
+*heart.csv* - conatins the data useed for the homework
 
-### *hw3.py* - is the executable python script which builds, test, and analyze the heart.csv data. prints to screen the accuracies of the models
+*hw3.py* - is the executable python script which builds, test, and analyze the heart.csv data. prints to screen the accuracies of the models
+
+## Written Report
 
 The data set I chose for this homework set is the heart-failure-prediction from Kaggle. This data set contains 11 features and the label: heart failure. These features are age, sex, chest pain type, resting blood pressure, cholesterol, fasting blood sugar, resting electrocardiogram, maximum heart rate, exercise-induced angina, oldpeak (an ECG finding reliable for the diagnosis of heart disease), and ST_Slope (the slope of peak exercise). Some of these features need to be converted from strings to integers, for example, the feature chest pain type has multiple classes: TA (Typical Angina), ATA (Atypical Angina), NAP (Non-Anginal Pain), and ASY (Asymptomatic) which were encoded into integers using the apply and map functions.
  
