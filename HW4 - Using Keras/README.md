@@ -1,5 +1,7 @@
-heart.csv contains the dataset used for this assignment
-hw_v2.py contains the python script used for the assignment, outputs the results written in the docx file
+### *heart.csv* - the dataset used for this assignment 
+
+### *hw_v2.py* - the python script used for the assignment, outputs the results written in the docx file
+
 
 The data set I chose for this homework set is the heart-failure-prediction from Kaggle, this is the same dataset I used from the last homework. If we recall, this data set contains 11 features and the label: heart failure. The features were converted from strings to integers, for example, the feature chest pain type has multiple classes: TA (Typical Angina), ATA (Atypical Angina), NAP (Non-Anginal Pain), and ASY (Asymptomatic) which were encoded into integers using the apply and map functions.
  
