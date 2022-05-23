@@ -1,4 +1,9 @@
-### *herg*
+## Files
+*herg_features.tsv* - dataset from PKB lab 
+
+*Neural_Net.py* - script that builds, test, and evaluates the neural net models using the *herg_features.tsv* dataset
+
+*neural_net_output.txt* - output file from *Neural_Net.py* script with each models' accuracy, F1 score, percision, recall
 
 
 ## Prediction of point mutation for long QT syndrome using Machine Learning
