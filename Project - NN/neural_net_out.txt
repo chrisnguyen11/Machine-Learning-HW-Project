@@ -1,0 +1,20 @@
+Neural Net - 2  Features - Baseline
+accuracy: 0.7096774193548387
+f1: 0.8301886792452831
+precision: 0.7096774193548387
+recall: 1.0
+Neural Net - 2  Features - Baseline - Testing on the Entire Dataset
+accuracy: 0.8137254901960784
+f1: 0.8972972972972973
+precision: 0.8137254901960784
+recall: 1.0
+Neural Net - 2  Features - Final
+accuracy: 0.7096774193548387
+f1: 0.8301886792452831
+precision: 0.7096774193548387
+recall: 1.0
+Neural Net - 2  Features - Final - Testing on the Entire Dataset
+accuracy: 0.8137254901960784
+f1: 0.8972972972972973
+precision: 0.8137254901960784
+recall: 1.0
